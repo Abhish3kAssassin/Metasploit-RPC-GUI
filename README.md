@@ -166,7 +166,7 @@ python -m pip install requests msgpack
 Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/metasploit-rpc-gui.git
+git clone https://github.com/Abhish3kAssassin/Metasploit-RPC-GUI.git
 ```
 
 Enter the project directory:
